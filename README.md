@@ -2,7 +2,7 @@
 
 This a bowling game simulated using Java and the scorecard is generated accordingly. 
 
-Run the game you need to use following command in terminal and follow the instructions that appears on terminal:
+Download the MyBowlingGame folder and then Run the game you need to use following command in terminal and follow the instructions that appears on terminal:
 
 (Project Path)\bin>java bowling.main.MyBowlingGame 
 
