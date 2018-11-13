@@ -24,14 +24,7 @@ Rules of the Game
 After finishing all 10 rounds you will see the final output as following:
 
 
- ROUND 1   ROUND 2   ROUND 3   ROUND 4   ROUND 5   ROUND 6   ROUND 7   ROUND 8   ROUND 9   ROUND 10  
-+-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ 
-| 6 | 1 | | 6 | 1 | | 4 | 2 | | 4 | 5 | | 1 | 6 | |   | X | |   | X | | 7 | 2 | | 7 | 0 | | X|6|/ | 
-+-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ 
-|  7    | |  14   | |  20   | |  29   | |  36   | |  63   | |  82   | |  91   | |  98   | |  118  | 
-+-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ +-------+ 
-
-************************! Game Finished Your Final Score is Shown Below 10th Round !**********************************
+![MyBowlingGameOutput](MyBowlingGameOutput.JPG)
 
 
 ENJOY THE GAME !!!
